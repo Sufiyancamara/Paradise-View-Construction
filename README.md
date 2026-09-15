@@ -1,4 +1,4 @@
-# Paradise-View-Construction-
+# Paradise-View-Construction
 In-Depth Analysis and Visualization of the Construction of a Paradise View House Using Python, NumPy, Pandas, Seaborn, and Matplotlib
 
 This project presents a comprehensive, data-driven analysis of the construction of a Paradise View House using Python and several powerful data science and visualization libraries, including NumPy, Pandas, Seaborn, and Matplotlib. The analysis explores the various stages and components of house construction, with a particular focus on organizing, processing, analyzing, and visualizing construction-related data.
